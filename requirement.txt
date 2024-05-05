@@ -2,3 +2,6 @@
 2 matplotlib
 3 seborn
 4 numpy
+5 pandas_profiling
+6 autoviz
+7 sweetviz
